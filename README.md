@@ -1,3 +1,6 @@
+> ⚠️ This project is still in progress. Currently at ~50% of the tutorial.
+
+
 # AirPods Landing Page
 
 ## Demo
